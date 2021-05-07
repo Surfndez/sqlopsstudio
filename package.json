@@ -146,7 +146,7 @@
     "typescript": "2.8.1",
     "typescript-formatter": "7.1.0",
     "uglify-es": "^3.0.18",
-    "underscore": "^1.8.3",
+    "underscore": "^1.12.1",
     "vinyl": "^0.4.5",
     "vinyl-fs": "^2.4.3",
     "vsce": "1.33.2",
