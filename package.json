@@ -94,7 +94,7 @@
     "electron-mksnapshot": "~1.7.0",
     "eslint": "^3.4.0",
     "event-stream": "^3.1.7",
-    "express": "^4.13.1",
+    "express": "^4.17.3",
     "glob": "^5.0.13",
     "gulp": "^3.9.1",
     "gulp-atom-electron": "^1.16.1",
