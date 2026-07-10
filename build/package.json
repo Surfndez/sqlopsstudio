@@ -11,7 +11,7 @@
     "@types/xml2js": "0.0.33",
     "@types/request": "^2.47.0",
     "azure-storage": "^2.1.0",
-    "decompress": "^4.2.0",
+    "decompress": "^4.2.1",
     "documentdb": "1.13.0",
     "service-downloader": "github:anthonydresser/service-downloader#0.1.2",
     "fs-extra-promise": "^1.0.1",
